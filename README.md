@@ -10,7 +10,7 @@
 
     - Product Selling: Users can utilize the server's functionality to efficiently sell their products, streamlining their selling process on Sellix.
 
-    - Login Functionality: The server provides a secure login feature that grants users their session ID upon successful authentication. This feature proves especially valuable for        individuals with multiple accounts, allowing them to swiftly access various servers using their session IDs.
+    - Login Functionality: The server provides a secure login feature that grants users their session ID upon successful authentication. This feature proves especially valuable for individuals with multiple accounts, allowing them to swiftly access various servers using their session IDs.
 
 ## Please note that the primary purpose of this server is to showcase capabilities and provide a practical example rather than serving a specific functional use case. The server was developed approximately 8 months ago but was only recently shared by me, since I forgot about.
 
